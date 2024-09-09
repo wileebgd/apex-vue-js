@@ -9,8 +9,8 @@ This example shows how to embed the VueJS code (application) into Oracle APEX st
 Perform the following steps:
 
 1. Install the OEHR sample schema in your APEX workspace (SQL Workshop > Utilitites > Sample Datasets).
-2. Import the provided APEX application.
-3. Import three files in the Workspace files section of the Shared Components by creating a "Vue" sub-folder and placing files in it.
+2. Import the APEX application, provided within "apex" subfolder of this repository.
+3. Import three files, provided in the "workspace_files" subfolder of this repository, in the Workspace files section of the Shared Components by creating a "Vue" sub-folder and placing files in it.
 
 ## Usage
 
@@ -21,7 +21,7 @@ Perform the following steps:
 
 ## References
 
-The source code of the Vue application in provided within...
+The source code of the Vue application in provided in the "source" subfolder of this repository.
 
 ## Credits
 
