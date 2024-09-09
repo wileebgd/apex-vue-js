@@ -6,9 +6,9 @@ This example shows how to embed the VueJS code (application) into Oracle APEX st
 
 ## Working Example
 
-https://apex.oracle.com/pls/apex/f?p=174363
-
 https://www.youtube.com/watch?v=v1UgCs4nNo8
+
+https://apex.oracle.com/pls/apex/f?p=174363
 
 ## Installation
 
