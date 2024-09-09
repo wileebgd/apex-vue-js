@@ -4,6 +4,10 @@
 
 This example shows how to embed the VueJS code (application) into Oracle APEX static region, with the possibility to interact between APEX component (in this case, it is Classc Report) and VueJS form.
 
+## Working Example
+
+https://apex.oracle.com/pls/apex/f?p=174363
+
 ## Installation
 
 Perform the following steps:
